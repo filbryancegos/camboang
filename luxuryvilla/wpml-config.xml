@@ -1,0 +1,9 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_luxuryvilla">
+            <key name="property_cpt_slug"/>
+            <key name="not_found_page_title"/>
+            <key name="not_found_page_description"/>
+        </key>
+    </admin-texts>
+</wpml-config>

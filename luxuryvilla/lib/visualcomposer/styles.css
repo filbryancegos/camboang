@@ -1,0 +1,134 @@
+.wpb-layout-element-button .icon-wpb-gg_icon,
+.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+	background-image: url(images/gg_vc_icon.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_blockquote,
+.wpb_blockquote.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_blockquote.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_contact_form,
+.wpb_contact_form.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_contact_form.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_counter,
+.wpb_counter.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_counter.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_single_icon_box,
+.wpb_single_icon.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_single_icon.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_featured_icon_box,
+.wpb_featured_icon.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_featured_icon_box.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_featured_image_box,
+.wpb_featured_image.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_featured_image_box.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_lists,
+.wpb_lists.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_lists.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_panel,
+.wpb_panel.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_panel.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_portfolio,
+.wpb_portfolio.theme_icon_class .wpb_element_wrapper .vc_element-icon { 
+  background-image: url(images/gg_vc_portfolio.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_team_module,
+.wpb_team_module.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_team_member.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_testimonials_module,
+.wpb_testimonials_module.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_testimonial.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_title_subtitle,
+.wpb_title_subtitle.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_title_subtitle.png);
+}
+
+.wpb_title_subtitle .wpb_element_wrapper p {
+	margin-top: 0;
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_contact_us,
+.wpb_widget_contact_us.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_contact_us.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_newsletter,
+.wpb_widget_newsletter.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_newsletter.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_recent_post_thumb,
+.wpb_widget_recent_posts_thumb.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_recent_post_thumb.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_tabbed_posts,
+.wpb_widget_tabbed_posts.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_tabbed_posts.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_working_hours,
+.wpb_working_hours.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_working_hours.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_posts_grid,
+.wpb_posts_grid.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/teaser_grid.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_vc_bw_map,
+.wpb_bw_map.theme_icon_class .wpb_element_wrapper .vc_element-icon{ 
+  background-image: url(images/gg_vc_bw_map.png);
+}
+
+.wpb-layout-element-button .icon-wpb-gg_woo_icon,
+.woocommerce .wpb_element_wrapper .vc_element-icon{
+  background-image: url(images/gg_woo_icon.png);
+}
+
+.wpb_content_element.clear_vc_style > .wpb_element_wrapper {
+  background-image: none;
+  height: auto;
+  min-height: inherit;
+  padding-left: 10px;
+}
+
+.wpb_content_element.clear_vc_style > .wpb_element_wrapper .vc_admin_label {
+  display: block;
+}
+
+
+.wpb_element_wrapper blockquote:before {
+  display: block;
+  content: "\7b";
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  font-family: 'ElegantIcons';
+}
+
+.wpb_element_wrapper blockquote {
+  position: relative; 
+  padding-left: 40px;
+}

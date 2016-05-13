@@ -1,0 +1,53 @@
+body {
+  background: #f3f3f3 !important; }
+
+.home-content {
+  background: #e7e7e8; }
+  .home-content .container {
+    padding: 3% 16%; }
+
+.page-content .container {
+  padding: 0 16%; }
+
+.title-subtitle-box p {
+  text-transform: uppercase;
+  font-size: 30px; }
+
+section#content {
+  background: #fff; }
+
+#subheader {
+  padding: 67px 0 0 0; }
+
+.title-subtitle-box h1 {
+  padding-top: 35px; }
+
+.wpb-js-composer .wpb_content_element .widget ul {
+  display: flex;
+  justify-content: center; }
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-tabs-list .vc_tta-tab a {
+  border-right: 0px solid red !important; }
+
+.vc_tta-tabs-container ul li:not(:last-child) {
+  border-right: 2px solid #B3ADAD !important; }
+
+.col-md-12 {
+  padding: 0; }
+
+.in_row.row.vc_row-fluid {
+  padding: 18px 0 0px 0; }
+
+.vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 46px; }
+
+@media screen and (max-width: 768px) {
+  .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container {
+    display: none; } }
+@media only screen and (min-width: 1824px) {
+  #main-menu {
+    padding: 57px 70px 20px 70px; } }
+
+/*# sourceMappingURL=app.css.map */

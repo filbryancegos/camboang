@@ -1,0 +1,25 @@
+@import "home";
+.col-md-12 {
+  padding: 0;
+}
+.in_row.row.vc_row-fluid {
+    padding: 18px 0 0px 0;
+}
+
+.vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 46px;
+}
+
+@media screen and (max-width: 768px) {
+  .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1824px) {
+  #main-menu {
+      padding: 57px 70px 20px 70px;
+  }
+}

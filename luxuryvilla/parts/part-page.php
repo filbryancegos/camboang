@@ -1,0 +1,18 @@
+<?php
+/**
+ * The template used for displaying page content in page.php
+ */
+?>
+
+<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+	<div class="entry-content">
+		<?php the_content(); ?>
+		<?php wp_link_pages( array( 'before' => '<div class="page-links">' . __( 'Pages:', 'okthemes' ), 'after' => '</div>' ) ); ?>
+	</div><!-- .entry-content -->
+
+	<?php if ( !is_search() ) : ?>
+	<footer class="entry-meta">
+		
+	</footer><!-- .entry-meta -->
+	<?php endif; ?>
+</article><!-- #post -->

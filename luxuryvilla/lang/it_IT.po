@@ -1,0 +1,5539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luxuryvilla WordPress Theme\n"
+"POT-Creation-Date: 2015-12-11 18:22+0200\n"
+"PO-Revision-Date: 2015-12-11 18:22+0200\n"
+"Last-Translator: Cristian Gogoneata <cristiangogoneata@gmail.com>\n"
+"Language-Team: Cristian Gogoneata <cristiangogoneata@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/bootstrap-validator/js/validator\n"
+
+#: 404.php:37
+msgid "Go back"
+msgstr ""
+
+#: 404.php:38 lib/widgets/bwmap-widget.php:82 lib/widgets/bwmap-widget.php:84
+#: lib/widgets/recent-posts-thumb-widget.php:80
+#: lib/widgets/social-icons-widget.php:98
+msgid "Contact us"
+msgstr ""
+
+#: admin/customizer/import-export.php:134
+msgid "Import demo data"
+msgstr ""
+
+#: admin/customizer/options.php:1398
+msgid "Background"
+msgstr ""
+
+#: archive-property_cpt.php:95
+msgid "Advanced"
+msgstr ""
+
+#: archive-property_cpt.php:95
+msgid " Search"
+msgstr "Cerca"
+
+#: archive.php:86
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:89
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:90
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:94
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:95
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:98
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:109
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:121
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:49
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:56 functions.php:1173
+#: lib/visualcomposer/gg-contact-form.php:119
+#: lib/visualcomposer/gg-contact-form.php:120
+#: parts/part-quick-reservation.php:84 parts/part-quick-reservation.php:85
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:31
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:543
+msgid "Name"
+msgstr ""
+
+#: comments.php:61 functions.php:1174 functions.php:1272 functions.php:1378
+#: lib/visualcomposer/gg-contact-form.php:123
+#: lib/visualcomposer/gg-contact-form.php:124
+#: lib/visualcomposer/gg-contact-form.php:167 parts/part-booking-form.php:165
+#: parts/part-booking-form.php:166 parts/part-contact-form.php:30
+#: parts/part-contact-form.php:31 parts/part-quick-reservation.php:91
+#: parts/part-quick-reservation.php:92
+#: plugins/advanced-custom-fields-pro/fields/email.php:36
+msgid "Email"
+msgstr ""
+
+#: comments.php:67
+msgid "Website"
+msgstr ""
+
+#: functions.php:182
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:298
+msgid "Loading..."
+msgstr ""
+
+#: functions.php:351
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:362
+msgid "Posts Sidebar"
+msgstr ""
+
+#: functions.php:373
+msgid "Search Sidebar"
+msgstr ""
+
+#: functions.php:384
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: functions.php:395
+msgid "Areas Page (Gallery) Sidebar"
+msgstr ""
+
+#: functions.php:406
+msgid "Gallery Page Sidebar"
+msgstr ""
+
+#: functions.php:417
+msgid "Footer First Sidebar"
+msgstr ""
+
+#: functions.php:428
+msgid "Footer Second Sidebar"
+msgstr ""
+
+#: functions.php:456
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:476
+msgid "Post author"
+msgstr ""
+
+#: functions.php:485
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:493
+msgid "<i class=\"arrow_back\"></i> Reply"
+msgstr ""
+
+#: functions.php:502
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:525
+msgid ", "
+msgstr ""
+
+#: functions.php:536
+#, php-format
+msgid ""
+"<span class=\"post-date\"><i class=\"icon_clock_alt\"></i> %2$s</span> <span "
+"class=\"post-category\"><i class=\"icon_menu-square_alt2\"></i> %1$s</span>"
+msgstr ""
+
+#: functions.php:538
+#, php-format
+msgid "<span class=\"post-date\"><i class=\"icon_clock_alt\"></i> %2$s</span>"
+msgstr ""
+
+#: functions.php:552
+msgid "No Comments"
+msgstr ""
+
+#: functions.php:554
+msgid " Comments"
+msgstr ""
+
+#: functions.php:556
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:560
+msgid "Comments off"
+msgstr ""
+
+#: functions.php:584
+#, php-format
+msgid "<span class=\"post-date\"> %1$s</span>"
+msgstr ""
+
+#: functions.php:687
+msgid "Read More"
+msgstr "Leggi Tutto"
+
+#: functions.php:721
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:849
+msgid "First"
+msgstr ""
+
+#: functions.php:852
+msgid "Previous"
+msgstr ""
+
+#: functions.php:864
+msgid "Next"
+msgstr ""
+
+#: functions.php:868
+msgid "Last"
+msgstr ""
+
+#: functions.php:886
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: functions.php:888
+msgid "Password:"
+msgstr ""
+
+#: functions.php:888
+msgid "Submit"
+msgstr ""
+
+#: functions.php:1116
+msgid "The entered email address isn't valid."
+msgstr ""
+
+#: functions.php:1132 functions.php:1235 functions.php:1321
+msgid "Your message was sent successfully."
+msgstr ""
+
+#: functions.php:1136 functions.php:1239 functions.php:1325
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: functions.php:1147 functions.php:1250 functions.php:1335
+msgid "All fields are required to enter."
+msgstr ""
+
+#: functions.php:1150 functions.php:1253 functions.php:1338
+msgid "Verification error, try again."
+msgstr ""
+
+#: functions.php:1166
+#, php-format
+msgid "New reservation request by: %1$s"
+msgstr ""
+
+#: functions.php:1169
+#, php-format
+msgid "Your reservation request on %1$s"
+msgstr ""
+
+#: functions.php:1175 functions.php:1273 functions.php:1379
+msgid "Phone number"
+msgstr "Numero di telefono"
+
+#: functions.php:1176 functions.php:1368
+msgid "Check in"
+msgstr ""
+
+#: functions.php:1177 functions.php:1369
+msgid "Check out"
+msgstr ""
+
+#: functions.php:1178 functions.php:1373 parts/part-booking-form.php:107
+#: parts/part-quick-reservation.php:69
+msgid "Adults"
+msgstr "Adulti"
+
+#: functions.php:1179 lib/cpts/property_cpt.php:74
+#: lib/visualcomposer/gg-location.php:163 lib/visualcomposer/gg-rooms.php:164
+msgid "Property"
+msgstr ""
+
+#: functions.php:1266
+#, php-format
+msgid "New contact form message from : %1$s %2$s"
+msgstr ""
+
+#: functions.php:1270 functions.php:1376
+msgid "First name"
+msgstr "Nome"
+
+#: functions.php:1271 functions.php:1377
+msgid "Last name"
+msgstr "Cognome"
+
+#: functions.php:1274 functions.php:1382 parts/part-booking-form.php:191
+#: parts/part-booking-form.php:192 parts/part-contact-form.php:38
+#: parts/part-contact-form.php:39
+#: plugins/advanced-custom-fields-pro/fields/message.php:36
+#: plugins/advanced-custom-fields-pro/fields/message.php:116
+#: plugins/advanced-custom-fields-pro/fields/true_false.php:106
+msgid "Message"
+msgstr "Messaggio"
+
+#: functions.php:1362
+#, php-format
+msgid "New booking from : %1$s %2$s"
+msgstr ""
+
+#: functions.php:1364
+#, php-format
+msgid "Your booking inquiry on %1$s"
+msgstr ""
+
+#: functions.php:1370 lib/visualcomposer/gg-location.php:152
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:214
+msgid "Location"
+msgstr ""
+
+#: functions.php:1371
+msgid "Room"
+msgstr ""
+
+#: functions.php:1372
+msgid "Number of rooms"
+msgstr ""
+
+#: functions.php:1374 parts/part-booking-form.php:121
+msgid "Children"
+msgstr "Bambini"
+
+#: functions.php:1375 parts/part-booking-form.php:133
+msgid "Pets"
+msgstr "Animali"
+
+#: functions.php:1380 parts/part-advanced-search.php:79
+#: parts/part-booking-form.php:173 parts/part-booking-form.php:174
+msgid "Country"
+msgstr "Paese"
+
+#: functions.php:1381
+msgid "Postcode"
+msgstr "Codice Postale"
+
+#: functions.php:1444
+msgid "Whole property"
+msgstr "Appartamento 6 persone"
+
+#: functions.php:1463
+msgid "or book a room"
+msgstr "o seleziona specifico"
+
+#: functions.php:1538
+msgid "About"
+msgstr "Info su"
+
+#: functions.php:1587 parts/part-quick-reservation.php:51
+msgid "Select a property"
+msgstr "Scegli appartmento"
+
+#: lib/class-tgm-plugin-activation.php:301 lib/register-tgm-plugins.php:28
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:302 lib/register-tgm-plugins.php:29
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:303 lib/register-tgm-plugins.php:30
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:304 lib/register-tgm-plugins.php:31
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:306 lib/register-tgm-plugins.php:32
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:311 lib/register-tgm-plugins.php:33
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:316
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:321 lib/register-tgm-plugins.php:38
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:331
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:336 lib/register-tgm-plugins.php:35
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:341 lib/register-tgm-plugins.php:36
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:351 lib/register-tgm-plugins.php:40
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:356
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:361
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:365 lib/register-tgm-plugins.php:42
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:367
+#: lib/class-tgm-plugin-activation.php:2957 lib/register-tgm-plugins.php:43
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:368
+#: lib/class-tgm-plugin-activation.php:2785
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:488
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:489
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:603
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:796
+#: lib/class-tgm-plugin-activation.php:3362
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:903
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:903
+#: lib/class-tgm-plugin-activation.php:906
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:906
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1084
+#: lib/class-tgm-plugin-activation.php:2781
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1849
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2166
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2168
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:283
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:12
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2174
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2188
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2233
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2236
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2239
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2324
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2332
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2391
+#: lib/visualcomposer/gg-overwrite-row.php:30
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:32
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2396
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:527
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:5
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2444
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2448
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2453
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2523
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2556
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2562
+#: plugins/advanced-custom-fields-pro/api/api-template.php:1262
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:572
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2565
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2636
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2741
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2767
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3288
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3293
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3294
+#: lib/class-tgm-plugin-activation.php:3300
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3294
+#: lib/class-tgm-plugin-activation.php:3300
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3295
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3296
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3299
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3301
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3302
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:73
+msgid "Properties"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:75 lib/cpts/property_cpt.php:76
+msgid "Add New Property"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:77
+msgid "Edit Property"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:78
+msgid "New Property"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:79
+msgid "View Property"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:80
+msgid "Search Property"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:81
+msgid "No Properties items found"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:82
+msgid "No Properties items found in trash"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:115 lib/cpts/property_cpt.php:129
+msgid "Property Categories"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:116
+msgid "Property Category"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:117
+msgid "Search Property Categories"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:118
+msgid "Popular Property Categories"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:119
+msgid "All Property Categories"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:120
+msgid "Parent Property Category"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:121
+msgid "Parent Property Category:"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:122
+msgid "Edit Property Category"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:123
+msgid "Update Property Category"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:124
+msgid "Add New Property Category"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:125
+msgid "New Property Category Name"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:126
+msgid "Separate property categories with commas"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:127
+msgid "Add or remove property categories"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:128
+msgid "Choose from the most used property categories"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:186 lib/visualcomposer/gg-counter.php:116
+#: lib/visualcomposer/gg-featured-icon.php:80
+#: lib/visualcomposer/gg-featured-image.php:95
+#: lib/visualcomposer/gg-lists.php:77 lib/visualcomposer/gg-panel.php:50
+#: lib/visualcomposer/gg-title-subtitle.php:98
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:47
+#: lib/visualcomposer/gg-widget-twitter.php:48
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:525
+msgid "Title"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:187
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:876
+msgid "Thumbnail"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:188
+msgid "Category"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:189
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:120
+msgid "Author"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:190
+msgid "Date"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:219
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:730
+msgid "None"
+msgstr ""
+
+#: lib/cpts/property_cpt.php:287
+msgid "property Item"
+msgid_plural "property Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/cpts/property_cpt.php:299
+msgid "property Item Pending"
+msgid_plural "property Items Pending"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/register-tgm-plugins.php:34
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/register-tgm-plugins.php:37
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/register-tgm-plugins.php:39
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/register-tgm-plugins.php:41
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/register-tgm-plugins.php:44
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lib/twitter/twitter.php:36
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: lib/twitter/twitter.php:38
+msgid "Y/m/d"
+msgstr ""
+
+#: lib/twitter/twitter.php:40
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: lib/twitter/twitter.php:40
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:3
+msgid "Heading 1"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:4
+msgid "Heading 2"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:5
+msgid "Heading 3"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:6
+msgid "Heading 4"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:7
+msgid "Heading 5"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:8
+msgid "Heading 6"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:13
+#: lib/visualcomposer/gg-overwrite-row.php:138
+msgid "CSS Animation"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:16
+#: lib/visualcomposer/gg-overwrite-row.php:141
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:41
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:142
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:247
+#: plugins/advanced-custom-fields-pro/fields/message.php:145
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:554
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:568
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:420
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:434
+#: plugins/advanced-custom-fields-pro/fields/select.php:397
+#: plugins/advanced-custom-fields-pro/fields/select.php:411
+#: plugins/advanced-custom-fields-pro/fields/select.php:425
+#: plugins/advanced-custom-fields-pro/fields/select.php:439
+#: plugins/advanced-custom-fields-pro/fields/tab.php:162
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:711
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:797
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:811
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:825
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:839
+#: plugins/advanced-custom-fields-pro/fields/user.php:458
+#: plugins/advanced-custom-fields-pro/fields/user.php:472
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:402
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:103
+msgid "No"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:16
+#: lib/visualcomposer/gg-overwrite-row.php:141
+msgid "Top to bottom"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:16
+#: lib/visualcomposer/gg-overwrite-row.php:141
+msgid "Bottom to top"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:16
+#: lib/visualcomposer/gg-overwrite-row.php:141
+msgid "Left to right"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:16
+#: lib/visualcomposer/gg-overwrite-row.php:141
+msgid "Right to left"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:16
+#: lib/visualcomposer/gg-overwrite-row.php:141
+msgid "Appear from center"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:17
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:21
+#: lib/visualcomposer/gg-counter.php:218
+#: lib/visualcomposer/gg-featured-icon.php:145
+#: lib/visualcomposer/gg-overwrite-cta.php:128
+#: lib/visualcomposer/gg-single-icon.php:104
+#: lib/visualcomposer/gg-title-subtitle.php:174
+msgid "Align left"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:22
+#: lib/visualcomposer/gg-counter.php:218
+#: lib/visualcomposer/gg-featured-icon.php:145
+#: lib/visualcomposer/gg-overwrite-cta.php:128
+#: lib/visualcomposer/gg-single-icon.php:104
+#: lib/visualcomposer/gg-title-subtitle.php:174
+msgid "Align right"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:23
+#: lib/visualcomposer/gg-counter.php:218
+#: lib/visualcomposer/gg-featured-icon.php:145
+#: lib/visualcomposer/gg-single-icon.php:104
+#: lib/visualcomposer/gg-title-subtitle.php:174
+msgid "Align center"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:27
+#: lib/visualcomposer/default-arrays.php:33
+#: lib/visualcomposer/default-arrays.php:40
+msgid "Two columns"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:28
+#: lib/visualcomposer/default-arrays.php:34
+#: lib/visualcomposer/default-arrays.php:41
+msgid "Three columns"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:29
+#: lib/visualcomposer/default-arrays.php:35
+msgid "Four columns"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:39
+msgid "One column"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:129
+msgid "Same window"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:130
+msgid "New window"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:134
+msgid "Default (Square corners)"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:135
+msgid "Rounded corners"
+msgstr ""
+
+#: lib/visualcomposer/default-arrays.php:136
+msgid "Circle"
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:48
+msgid "Blockquote"
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:49
+msgid "Display a blockquote."
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:55 lib/visualcomposer/gg-bw-map.php:40
+#: lib/visualcomposer/gg-contact-form.php:155
+#: lib/visualcomposer/gg-counter.php:112
+#: lib/visualcomposer/gg-featured-icon.php:75
+#: lib/visualcomposer/gg-featured-image.php:91
+#: lib/visualcomposer/gg-lists.php:73 lib/visualcomposer/gg-location.php:158
+#: lib/visualcomposer/gg-panel.php:46 lib/visualcomposer/gg-posts.php:188
+#: lib/visualcomposer/gg-rooms.php:159 lib/visualcomposer/gg-single-icon.php:68
+#: lib/visualcomposer/gg-title-subtitle.php:94
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:43
+#: lib/visualcomposer/gg-widget-twitter.php:44
+msgid "OKThemes"
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:59
+msgid "Quote"
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:62
+msgid "Insert quote content here"
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:66
+msgid "Cite"
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:70
+msgid "Insert cite here. Like author name, position, website."
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:74
+msgid "Blockquote background color"
+msgstr ""
+
+#: lib/visualcomposer/gg-blockquote.php:80
+msgid "Blockquote text color"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:33
+msgid "BW map"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:34
+msgid "Display a black and white map."
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:44
+msgid "Latitude"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:48
+msgid "Insert the latitude here"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:52
+msgid "Longitude"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:56
+msgid "Insert the longitude here"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:60
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:193
+msgid "Zoom"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:64
+msgid "Zoom level"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:68
+msgid "Map Height"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:71
+msgid "Insert map height in pixels"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:75
+msgid "Info window"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:76
+msgid "Display an info window on marker click?"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:81
+msgid "Info window title"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:84
+msgid "Put the info window title here"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:89
+msgid "Info window content"
+msgstr ""
+
+#: lib/visualcomposer/gg-bw-map.php:92
+msgid "Put the info window content here"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:33
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:41
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:44
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:52
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:86
+msgid "Thank you,"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:120
+msgid "Please enter your name"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:124
+msgid "Please enter your email address"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:127
+#: lib/visualcomposer/gg-contact-form.php:128
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:117
+msgid "Comments"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:128
+msgid "Please enter your comment"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:136
+msgid "Send email"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:149
+msgid "Contact form"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:150
+msgid "Display a mini contact form."
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:159
+msgid "Widget title"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:163
+msgid "Insert widget title here"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:170
+msgid "Insert the contact form email here."
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:174
+msgid "Success message"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:177
+msgid "Insert the success message."
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:181
+msgid "Error message"
+msgstr ""
+
+#: lib/visualcomposer/gg-contact-form.php:184
+msgid "Insert the error message."
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:106
+msgid "Counter"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:107
+msgid "A counter from 0 to a specified number."
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:119 lib/visualcomposer/gg-panel.php:53
+#: lib/visualcomposer/gg-title-subtitle.php:101
+msgid "Insert the title here"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:125
+msgid "Title color"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:131
+#: lib/visualcomposer/gg-title-subtitle.php:144
+msgid "Subtitle"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:134
+#: lib/visualcomposer/gg-title-subtitle.php:147
+msgid "Insert the subtitle here"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:140
+msgid "Subtitle color"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:146 lib/visualcomposer/gg-lists.php:91
+#: lib/visualcomposer/gg-overwrite-button2.php:24
+#: lib/visualcomposer/gg-overwrite-cta.php:94
+msgid "Icon?"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:147
+msgid "Use an icon for your counter."
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:152 lib/visualcomposer/gg-lists.php:97
+#: lib/visualcomposer/gg-overwrite-button2.php:31
+#: lib/visualcomposer/gg-overwrite-cta.php:101
+msgid "Icon"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:155 lib/visualcomposer/gg-lists.php:100
+msgid "Choose your icon."
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:160 lib/visualcomposer/gg-lists.php:105
+msgid "Icon color"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:166
+msgid "Box?"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:167
+msgid "Display the counter in a box"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:172
+msgid "Box background"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:174
+msgid "Choose your background color."
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:179
+msgid "Box Padding"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:181
+#: lib/visualcomposer/gg-overwrite-column.php:13
+#: lib/visualcomposer/gg-title-subtitle.php:181
+msgid ""
+"You can use px, em, %, etc. or enter just number and it will use pixels. "
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:186
+#: plugins/advanced-custom-fields-pro/fields/number.php:36
+msgid "Number"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:191
+msgid "Refresh interval"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:197
+msgid "Speed"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:203
+msgid "Font size (px)"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:211
+msgid "Number color"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:216
+#: lib/visualcomposer/gg-title-subtitle.php:172
+msgid "Align"
+msgstr ""
+
+#: lib/visualcomposer/gg-counter.php:219
+#: lib/visualcomposer/gg-title-subtitle.php:175
+msgid "Set the alignment"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:68
+msgid "Featured icon box"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:69
+msgid "Display an featured icon with title and description."
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:83
+#: lib/visualcomposer/gg-featured-image.php:98
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:50
+#: lib/visualcomposer/gg-widget-twitter.php:50
+msgid "Insert title here"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:87
+msgid "Title URL (Link)"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:89
+#: lib/visualcomposer/gg-single-icon.php:75
+msgid "Title link."
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:93
+#: lib/visualcomposer/gg-featured-image.php:102
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:526
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:93
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:20
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:28
+msgid "Description"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:95
+#: lib/visualcomposer/gg-featured-image.php:104
+msgid "Insert short description here"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:100
+#: lib/visualcomposer/gg-featured-image.php:124
+msgid "Read more link"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:101
+msgid "Use a read more link?"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:106
+#: lib/visualcomposer/gg-featured-image.php:117
+msgid "Read more text"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:107
+#: lib/visualcomposer/gg-featured-image.php:118 theme-templates/areas.php:64
+#: theme-templates/areas.php:66
+msgid "Read more"
+msgstr "Leggi tutto"
+
+#: lib/visualcomposer/gg-featured-icon.php:109
+#: lib/visualcomposer/gg-featured-image.php:120
+msgid "Insert the read more text."
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:114
+msgid "Read more URL"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:116
+msgid "Insert read more URL here"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:121
+msgid "Featured icon"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:124
+#: lib/visualcomposer/gg-single-icon.php:83
+msgid "Choose your featured icon."
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:129
+msgid "Featured icon size"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:131
+#: lib/visualcomposer/gg-single-icon.php:89
+#: lib/visualcomposer/gg-title-subtitle.php:116
+msgid "Normal"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:131
+#: lib/visualcomposer/gg-single-icon.php:89
+msgid "Small"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:131
+#: lib/visualcomposer/gg-single-icon.php:89
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:878
+msgid "Large"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:132
+#: lib/visualcomposer/gg-single-icon.php:90
+msgid "Select the featured icon size"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:136
+msgid "Featured icon color"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:138
+#: lib/visualcomposer/gg-single-icon.php:97
+msgid "Select the icon color"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:143
+#: lib/visualcomposer/gg-single-icon.php:102
+msgid "Align the icon"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-icon.php:146
+#: lib/visualcomposer/gg-single-icon.php:105
+msgid "Set the alignment of the icon."
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:84
+msgid "Featured image box"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:85
+msgid "Image box with title and description."
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:110
+msgid "Title link"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:113
+msgid "Insert title link here"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:126
+msgid "Insert read more link here"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:130
+msgid "Featured image"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:133
+#: lib/visualcomposer/gg-overwrite-single-image.php:28
+msgid "Select image from media library."
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:138
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:24
+#: lib/visualcomposer/gg-overwrite-single-image.php:35
+#: lib/visualcomposer/gg-rooms.php:219
+msgid "Image size"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:140
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:26
+#: lib/visualcomposer/gg-overwrite-single-image.php:37
+#: lib/visualcomposer/gg-rooms.php:221
+msgid "Full size"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:140
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:26
+#: lib/visualcomposer/gg-overwrite-single-image.php:37
+#: lib/visualcomposer/gg-rooms.php:221
+msgid "Custom size"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:141
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:27
+#: lib/visualcomposer/gg-overwrite-single-image.php:38
+#: lib/visualcomposer/gg-rooms.php:222
+msgid "Choose the image size"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:145
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:13
+#: lib/visualcomposer/gg-overwrite-image-gallery.php:8
+#: lib/visualcomposer/gg-overwrite-single-image.php:43
+msgid "Image style"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:149
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:17
+#: lib/visualcomposer/gg-overwrite-image-gallery.php:12
+#: lib/visualcomposer/gg-overwrite-single-image.php:47
+msgid "Choose the image style"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:153
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:32
+#: lib/visualcomposer/gg-overwrite-single-image.php:52
+#: lib/visualcomposer/gg-rooms.php:226
+msgid "Custom size - width"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:155
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:34
+#: lib/visualcomposer/gg-overwrite-single-image.php:54
+#: lib/visualcomposer/gg-rooms.php:228
+msgid "Insert the width of the image"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:160
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:40
+#: lib/visualcomposer/gg-overwrite-single-image.php:60
+#: lib/visualcomposer/gg-rooms.php:233
+msgid "Custom size - height"
+msgstr ""
+
+#: lib/visualcomposer/gg-featured-image.php:162
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:42
+#: lib/visualcomposer/gg-overwrite-single-image.php:62
+#: lib/visualcomposer/gg-rooms.php:235
+msgid "Insert the height of the image"
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:67
+msgid "Lists"
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:68
+msgid "An ordered/unordered list with icon"
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:80
+msgid "Insert the list title here"
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:84
+msgid "Lists values"
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:86
+msgid ""
+"Input list items here. Divide list items with linebreaks (Enter), one list "
+"item per line."
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:92
+msgid "Use an icon for your list items."
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:111
+msgid "List group?"
+msgstr ""
+
+#: lib/visualcomposer/gg-lists.php:112
+msgid "Display as a list group"
+msgstr ""
+
+#: lib/visualcomposer/gg-location.php:88 theme-templates/areas.php:101
+msgid "Get directions"
+msgstr "Percorso"
+
+#: lib/visualcomposer/gg-location.php:153
+msgid "Display the location of a property."
+msgstr ""
+
+#: lib/visualcomposer/gg-location.php:165
+msgid "Select which property location to display."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:10
+#: lib/visualcomposer/gg-overwrite-cta.php:80
+msgid "Button Color"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:12
+#: lib/visualcomposer/gg-overwrite-cta.php:82
+msgid "Select custom color for your button."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:17
+#: lib/visualcomposer/gg-overwrite-cta.php:87
+msgid "Text Color"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:19
+#: lib/visualcomposer/gg-overwrite-cta.php:89
+msgid "Select custom color for your button text."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:25
+#: lib/visualcomposer/gg-overwrite-cta.php:95
+msgid "Use an icon for your button."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:34
+#: lib/visualcomposer/gg-overwrite-cta.php:104
+msgid "Button icon."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:40
+#: lib/visualcomposer/gg-overwrite-cta.php:110
+msgid "Icon align"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:43
+#: lib/visualcomposer/gg-overwrite-cta.php:113
+msgid "Icon align."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:49
+#: lib/visualcomposer/gg-overwrite-cta.php:118
+msgid "Size"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:53
+#: lib/visualcomposer/gg-overwrite-cta.php:122
+msgid "Button size."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:58
+msgid "Block button?"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:59
+msgid "Is this a block button?"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:61
+msgid "A block button spans the full width of the parent element."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:66
+#: lib/visualcomposer/gg-single-icon.php:109
+msgid "Margin"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:68
+msgid "Apply a margin to the button, in pixels. Eg. 20px 0 0 0"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:73
+#: lib/visualcomposer/gg-overwrite-cta.php:134
+#: lib/visualcomposer/gg-overwrite-row.php:131
+#: lib/visualcomposer/gg-single-icon.php:115
+msgid "Extra class name"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-button2.php:75
+#: lib/visualcomposer/gg-overwrite-cta.php:136
+#: lib/visualcomposer/gg-overwrite-row.php:133
+#: lib/visualcomposer/gg-single-icon.php:117
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-column.php:4
+msgid "Column background color"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-column.php:6
+msgid "Select custom background color for column."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-column.php:11
+#: lib/visualcomposer/gg-title-subtitle.php:179
+msgid "Padding"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:20
+msgid "Heading first line"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:23
+msgid "Hey! I am first heading line feel free to change me"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:24
+msgid "Text for the first heading line."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:29
+msgid "Promotional text"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:31
+msgid ""
+"<p>I am promo text. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:35
+msgid "Element width"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:38
+msgid "Call to action element width in percents."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:42
+msgid "Text align"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:45
+msgid "Text align in call to action block."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:50
+msgid "Background Color"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:52
+msgid "Select background color for your element."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:56
+msgid "Custom Text Color"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:58
+msgid "Select the text color for your element."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:64
+msgid "URL (Link)"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:66
+msgid "Button link."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:70
+#: lib/visualcomposer/gg-overwrite-cta.php:74
+#: lib/visualcomposer/vc_templates/vc_button2.php:4
+#: lib/visualcomposer/vc_templates/vc_cta_button2.php:11
+msgid "Text on the button"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:75
+msgid "Text on the button."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:126
+msgid "Button position"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:128
+msgid "Align bottom"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-cta.php:129
+msgid "Select button alignment."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:50
+msgid "Slider speed"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:53
+msgid "Duration of animation between slides (in ms)"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:60
+#: lib/visualcomposer/gg-posts.php:208 lib/visualcomposer/gg-rooms.php:186
+msgid "Slides per view"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:63
+#: lib/visualcomposer/gg-posts.php:211 lib/visualcomposer/gg-rooms.php:189
+msgid ""
+"Set numbers of slides you want to display at the same time on slider's "
+"container for carousel mode."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:72
+msgid "Transition style"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:74
+msgid "Fade"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:74
+msgid "Back Slide"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:74
+msgid "Go Down"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:74
+msgid "Scale Up"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-image-carousel.php:75
+msgid "Set the transition style if slides per view = 1"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:18
+msgid "Row Type"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:42
+msgid "Parallax effect"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:43
+msgid "Use parallax effect?"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:49
+msgid "Add overlay effect"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:50
+msgid "Use overlay effect?"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:56
+msgid "Parallax overlay background color"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:58
+#: lib/visualcomposer/gg-overwrite-row.php:100
+msgid ""
+"Select backgound color for your overlay. Use the alpha slider to set the "
+"opacity."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:65
+msgid "Parallax section height"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:68
+msgid "Insert the section height in pixels. Eg: 200"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:74
+msgid "Video background"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:75
+msgid "Use video background?"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:81
+msgid "Video section height"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:84
+msgid "Insert the video section height in pixels. Eg: 200"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:91
+msgid "Video overlay"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:92
+msgid "Use transparent overlay over video?"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:98
+msgid "Video overlay background color"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:107
+msgid "Video background (webm) file url"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:115
+msgid "Video background (mp4) file url"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:123
+msgid "Video background (ogv) file url"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-row.php:142
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-single-image.php:25
+#: plugins/advanced-custom-fields-pro/fields/image.php:36
+msgid "Image"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-single-image.php:70
+msgid "Link to large image?"
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-single-image.php:72
+msgid "If selected, image will be linked to the bigger image."
+msgstr ""
+
+#: lib/visualcomposer/gg-overwrite-single-image.php:73
+#: lib/visualcomposer/gg-posts.php:219 lib/visualcomposer/gg-posts.php:227
+#: lib/visualcomposer/gg-rooms.php:197 lib/visualcomposer/gg-rooms.php:205
+msgid "Yes, please"
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:40
+msgid "Panel"
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:41
+msgid "A panel component with heading and body."
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:58
+#: plugins/advanced-custom-fields-pro/fields/text.php:36
+msgid "Text"
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:60
+msgid "<p>I am text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:64
+msgid "Panel header background color"
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:66
+msgid "Select the header background color"
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:70
+msgid "Panel header text color"
+msgstr ""
+
+#: lib/visualcomposer/gg-panel.php:72
+msgid "Select the header text color"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:93
+#: lib/visualcomposer/vc_templates/vc_posts_grid.php:135
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:826
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:834
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:848
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:855
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:870
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:880
+#: plugins/advanced-custom-fields-pro/fields/file.php:235
+#: plugins/advanced-custom-fields-pro/fields/image.php:226
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:661
+#: theme-templates/areas-var2.php:114 theme-templates/gallery.php:111
+msgid "All"
+msgstr "Tutto"
+
+#: lib/visualcomposer/gg-posts.php:182
+msgid "Posts grid"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:183
+msgid "Display grid posts."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:192 lib/visualcomposer/gg-rooms.php:170
+msgid "Layout mode"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:194 lib/visualcomposer/gg-rooms.php:172
+msgid "Grid Fit rows"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:194 lib/visualcomposer/gg-rooms.php:172
+msgid "Grid Masonry"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:194 lib/visualcomposer/gg-rooms.php:172
+msgid "Carousel"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:195 lib/visualcomposer/gg-rooms.php:173
+msgid "Layout template."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:199 lib/visualcomposer/gg-rooms.php:177
+msgid "Layout style"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:201 lib/visualcomposer/gg-rooms.php:179
+msgid "Gap"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:201 lib/visualcomposer/gg-rooms.php:179
+msgid "No gap"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:202 lib/visualcomposer/gg-rooms.php:180
+msgid "Layout style."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:216 lib/visualcomposer/gg-rooms.php:194
+msgid "Hide pagination control"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:218 lib/visualcomposer/gg-rooms.php:196
+msgid "If YES pagination control will be removed ."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:224 lib/visualcomposer/gg-rooms.php:202
+msgid "Autoplay"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:226 lib/visualcomposer/gg-rooms.php:204
+msgid "Enables autoplay mode."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:232 lib/visualcomposer/gg-rooms.php:210
+msgid "Columns count"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:236 lib/visualcomposer/gg-rooms.php:214
+msgid "Select columns count."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:241
+msgid "Number of posts"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:244
+msgid "Insert the number of posts to display. Default: 9"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:248
+msgid "Display category filter?"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:249
+msgid "Display category filter"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:256
+msgid "Posts grid terms"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:258
+msgid ""
+"Select posts_grid terms to display. By default it displays posts from all "
+"terms."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:263
+msgid "Post IDs"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:265
+msgid ""
+"Fill this field with posts IDs separated by commas (,) to retrieve only them."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:269
+msgid "Exclude Post IDs"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:271
+msgid ""
+"Fill this field with posts IDs separated by commas (,) to exclude them from "
+"query."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:275
+msgid "Order by"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:285
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:289
+msgid "Order way"
+msgstr ""
+
+#: lib/visualcomposer/gg-posts.php:295
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: lib/visualcomposer/gg-rooms.php:153 parts/part-booking-form.php:96
+msgid "Rooms"
+msgstr "Stanze"
+
+#: lib/visualcomposer/gg-rooms.php:154
+msgid "Display the rooms of a property."
+msgstr ""
+
+#: lib/visualcomposer/gg-rooms.php:166
+msgid "Select which property rooms to display."
+msgstr ""
+
+#: lib/visualcomposer/gg-single-icon.php:61
+#: lib/visualcomposer/gg-single-icon.php:80
+msgid "Single icon"
+msgstr ""
+
+#: lib/visualcomposer/gg-single-icon.php:62
+msgid "Display a single icon."
+msgstr ""
+
+#: lib/visualcomposer/gg-single-icon.php:73
+msgid "Icon URL (Link)"
+msgstr ""
+
+#: lib/visualcomposer/gg-single-icon.php:87
+msgid "Single icon size"
+msgstr ""
+
+#: lib/visualcomposer/gg-single-icon.php:95
+msgid "Single icon color"
+msgstr ""
+
+#: lib/visualcomposer/gg-single-icon.php:111
+msgid ""
+"You can use px, em, %, etc. or enter just number and it will use pixels."
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:87
+msgid "Title and Subtitle"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:88
+msgid "Display a title and a subtitle."
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:105
+msgid "Title type"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:108
+msgid "Choose the heading type"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:114
+msgid "Title font weight"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:116
+msgid "Thin"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:116
+msgid "Bold"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:117
+msgid "Set the font weight"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:122
+msgid "Title font color"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:124
+msgid "Select the title font color"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:130
+msgid "Title custom font size?"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:131
+msgid "Use a custom font size for your heading"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:137
+msgid "Insert the title font size"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:139
+msgid "Insert the custom font size in px."
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:151
+msgid "Subtitle font color"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:153
+msgid "Select the subtitle font color"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:159
+msgid "Add underline?"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:160
+msgid "Use a underline for your heading"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:165
+msgid "Underline color"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:167
+msgid "Select the underline color"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:185
+msgid "Margin bottom"
+msgstr ""
+
+#: lib/visualcomposer/gg-title-subtitle.php:187
+msgid "Insert the margin bottom in pixels. E.g.: 20"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:12
+#: lib/widgets/recent-posts-thumb-widget.php:13
+#: lib/widgets/recent-posts-thumb-widget.php:14
+msgid "Recent posts with thumbnails"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:36
+msgid "Widget: Recent posts with thumbnail"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:37
+msgid "Display posts."
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:54
+msgid "Number of posts to show"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-recent-posts-thumb.php:58
+msgid "Insert the number of posts to show"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:37
+msgid "Widget: Twitter"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:38
+msgid "Display twitter posts."
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:54
+msgid "Username"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:57
+msgid "Insert username here."
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:61
+msgid "Number of posts to display"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:63
+msgid "Insert number of posts to display here."
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:67
+msgid "Username link"
+msgstr ""
+
+#: lib/visualcomposer/gg-widget-twitter.php:69
+msgid "Insert your Twitter username link here"
+msgstr ""
+
+#: lib/visualcomposer/vc_templates/vc_posts_grid.php:168
+msgid "Nothing found."
+msgstr ""
+
+#: lib/widgets/bwmap-widget.php:13
+msgid "BW map Widget"
+msgstr ""
+
+#: lib/widgets/bwmap-widget.php:14
+msgid "Black and White Image map Widget"
+msgstr ""
+
+#: lib/widgets/bwmap-widget.php:93 lib/widgets/flickr-widget.php:51
+#: lib/widgets/recent-posts-thumb-widget.php:90
+#: lib/widgets/social-icons-widget.php:103
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/bwmap-widget.php:99
+msgid "Latitude:"
+msgstr ""
+
+#: lib/widgets/bwmap-widget.php:105
+msgid "Longitude:"
+msgstr ""
+
+#: lib/widgets/bwmap-widget.php:111
+msgid "Zoom:"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:13
+msgid "Flickr Widget"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:14
+msgid "Display up to 20 of your latest Flickr submissions"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:34
+msgid "View stream on flickr"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:45
+msgid "Photostream"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:55
+msgid ""
+"Flickr ID (To find your flickID visit <a href=\"http://idgettr.com/\" target="
+"\"_blank\">idGettr</a>)"
+msgstr ""
+
+#: lib/widgets/flickr-widget.php:59
+msgid "Count:"
+msgstr ""
+
+#: lib/widgets/recent-posts-thumb-widget.php:93
+msgid "Number of posts to show:"
+msgstr ""
+
+#: lib/widgets/recent-posts-thumb-widget.php:95
+msgid "(at most 15)"
+msgstr ""
+
+#: lib/widgets/social-icons-widget.php:13
+msgid "Social Icons Widget"
+msgstr ""
+
+#: lib/widgets/social-icons-widget.php:14
+msgid "Display a list of social icons"
+msgstr ""
+
+#: lib/widgets/twitter-widget.php:14 lib/widgets/twitter-widget.php:17
+msgid "Twitter Widget"
+msgstr ""
+
+#: parts/part-advanced-search.php:67
+msgid "Property type"
+msgstr ""
+
+#: parts/part-advanced-search.php:69
+msgid "All types"
+msgstr "Tipologia"
+
+#: parts/part-advanced-search.php:81
+msgid "All countries"
+msgstr "Nazione"
+
+#: parts/part-advanced-search.php:91
+msgid "City"
+msgstr ""
+
+#: parts/part-advanced-search.php:93
+msgid "All cities"
+msgstr "Città"
+
+#: parts/part-advanced-search.php:102 parts/part-advanced-search.php:104
+#: parts/part-property-area-search.php:67
+msgid "Sleeps"
+msgstr "Persone"
+
+#: parts/part-advanced-search.php:121 parts/part-advanced-search.php:123
+msgid "Bedrooms"
+msgstr "Stanze"
+
+#: parts/part-advanced-search.php:134 parts/part-advanced-search.php:136
+msgid "Bathrooms"
+msgstr "Bagni"
+
+#: parts/part-advanced-search.php:146
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:133
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:722
+#: searchform.php:13 searchform.php:15
+msgid "Search"
+msgstr "Cerca"
+
+#: parts/part-booking-form.php:14
+msgid "Select check in and check out dates"
+msgstr "Seleziona data check in e check out"
+
+#: parts/part-booking-form.php:16 parts/part-booking-form.php:18
+#: parts/part-quick-reservation.php:16 parts/part-quick-reservation.php:18
+msgid "Check-in"
+msgstr ""
+
+#: parts/part-booking-form.php:21 parts/part-booking-form.php:23
+#: parts/part-quick-reservation.php:24 parts/part-quick-reservation.php:26
+msgid "Check-out"
+msgstr ""
+
+#: parts/part-booking-form.php:34
+msgid "Select location"
+msgstr "Seleziona appartamento"
+
+#: parts/part-booking-form.php:63 parts/part-quick-reservation.php:60
+#: theme-templates/areas.php:192 theme-templates/homepage-var1.php:162
+#: theme-templates/homepage-var2.php:162 theme-templates/homepage-var3.php:103
+#: theme-templates/homepage-var4.php:100
+msgid "No properties available"
+msgstr ""
+
+#: parts/part-booking-form.php:81
+msgid "Rooms and rates"
+msgstr "Selezione per quante persone"
+
+#: parts/part-booking-form.php:94
+msgid "Additional Informations"
+msgstr "Informazioni aggiuntive"
+
+#: parts/part-booking-form.php:155
+msgid "Personal Informations"
+msgstr "Informazioni personali"
+
+#: parts/part-booking-form.php:157 parts/part-booking-form.php:158
+#: parts/part-contact-form.php:22 parts/part-contact-form.php:23
+msgid "First Name"
+msgstr "Nome"
+
+#: parts/part-booking-form.php:161 parts/part-booking-form.php:162
+#: parts/part-contact-form.php:26 parts/part-contact-form.php:27
+msgid "Last Name"
+msgstr "Cognome"
+
+#: parts/part-booking-form.php:169 parts/part-booking-form.php:170
+#: parts/part-contact-form.php:34 parts/part-contact-form.php:35
+#: parts/part-quick-reservation.php:98 parts/part-quick-reservation.php:99
+msgid "Phone"
+msgstr "Telefono"
+
+#: parts/part-booking-form.php:177
+msgid "Post code"
+msgstr ""
+
+#: parts/part-booking-form.php:178
+msgid "postcode"
+msgstr "Codice postale"
+
+#: parts/part-booking-form.php:189
+msgid "Additional notes"
+msgstr "Informazioni aggiuntive"
+
+#: parts/part-booking-form.php:206
+msgid "Request booking"
+msgstr "Richiesta di prenotazione"
+
+#: parts/part-contact-form.php:14
+msgid "This value is not valid"
+msgstr ""
+
+#: parts/part-contact-form.php:23
+msgid "The first name is required and cannot be empty"
+msgstr ""
+
+#: parts/part-contact-form.php:27
+msgid "The last name is required and cannot be empty"
+msgstr ""
+
+#: parts/part-contact-form.php:31 parts/part-quick-reservation.php:92
+msgid "The email is required and cannot be empty"
+msgstr ""
+
+#: parts/part-contact-form.php:31 parts/part-quick-reservation.php:92
+msgid "The input is not a valid email address"
+msgstr ""
+
+#: parts/part-contact-form.php:35 parts/part-quick-reservation.php:99
+msgid "The phone is required and cannot be empty"
+msgstr ""
+
+#: parts/part-contact-form.php:39
+msgid "The message is required and cannot be empty"
+msgstr ""
+
+#: parts/part-contact-form.php:45
+msgid "Send"
+msgstr "Invia"
+
+#: parts/part-none.php:11 search.php:81
+msgid "Nothing Found"
+msgstr ""
+
+#: parts/part-none.php:17
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: parts/part-page.php:10 parts/part.php:63
+msgid "Pages:"
+msgstr ""
+
+#: parts/part-page.php:15 parts/part.php:71
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:58
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:363
+msgid "Edit"
+msgstr ""
+
+#: parts/part-property-area-search.php:70
+msgid "bedroom"
+msgstr "Stanza"
+
+#: parts/part-property-area-search.php:70
+msgid "bedrooms"
+msgstr "Stanze"
+
+#: parts/part-property-area-search.php:73
+msgid "bathroom"
+msgstr "Bagno"
+
+#: parts/part-property-area-search.php:73
+msgid "bathrooms"
+msgstr "Bagni"
+
+#: parts/part-quick-reservation.php:18 parts/part-quick-reservation.php:26
+msgid "The date format is not valid"
+msgstr ""
+
+#: parts/part-quick-reservation.php:18
+msgid "The checkin date is required and cannot be empty"
+msgstr ""
+
+#: parts/part-quick-reservation.php:26
+msgid "The checkout date is required and cannot be empty"
+msgstr ""
+
+#: parts/part-quick-reservation.php:70
+msgid "Select the number of adults"
+msgstr ""
+
+#: parts/part-quick-reservation.php:71
+msgid "1 Adult"
+msgstr "1 Adulto"
+
+#: parts/part-quick-reservation.php:72
+msgid "2 Adults"
+msgstr "2 Adulti"
+
+#: parts/part-quick-reservation.php:73
+msgid "3 Adults"
+msgstr "3 Adulti"
+
+#: parts/part-quick-reservation.php:74
+msgid "4 Adults"
+msgstr "4 Adulti"
+
+#: parts/part-quick-reservation.php:75
+msgid "5 Adults"
+msgstr "5 Adulti"
+
+#: parts/part-quick-reservation.php:76
+msgid "6 Adults"
+msgstr "6 Adulti"
+
+#: parts/part-quick-reservation.php:77
+msgid "6+ Adults"
+msgstr "6+ Adulti"
+
+#: parts/part-quick-reservation.php:85
+msgid "The name is required and cannot be empty"
+msgstr ""
+
+#: parts/part-quick-reservation.php:107
+msgid "Book"
+msgstr ""
+
+#: parts/part.php:39
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: parts/part.php:62
+msgid "Continue reading"
+msgstr "Contina a leggere"
+
+#: parts/single/part-single-classic.php:56
+#: parts/single/part-single-half-screen.php:38
+msgid "Reserve now"
+msgstr "Prenota adesso"
+
+#: parts/single/part-single-quarter-screen.php:85
+#: parts/single/part-single-third-screen.php:85
+msgid "Share"
+msgstr ""
+
+#: parts/single/part-single-quarter-screen.php:94
+#: parts/single/part-single-third-screen.php:95
+msgid "Book Now"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:63
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:264
+#: plugins/advanced-custom-fields-pro/admin/admin.php:61
+msgid "Field Groups"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:265
+msgid "Field Group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:266
+#: plugins/advanced-custom-fields-pro/acf.php:298
+#: plugins/advanced-custom-fields-pro/admin/admin.php:62
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:505
+msgid "Add New"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:267
+msgid "Add New Field Group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:268
+msgid "Edit Field Group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:269
+msgid "New Field Group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:270
+msgid "View Field Group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:271
+msgid "Search Field Groups"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:272
+msgid "No Field Groups found"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:273
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:296
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:182
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:213
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:528
+msgid "Fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:297
+msgid "Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:299
+msgid "Add New Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:300
+msgid "Edit Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:301
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:18
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:111
+msgid "New Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:302
+msgid "View Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:303
+msgid "Search Fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:304
+msgid "No Fields found"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:305
+msgid "No Fields found in Trash"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:344
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:283
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:586
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:13
+msgid "Disabled"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/acf.php:349
+#, php-format
+msgid "Disabled <span class=\"count\">(%s)</span>"
+msgid_plural "Disabled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/advanced-custom-fields-pro/admin/admin.php:57
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:115
+msgid "Custom Fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:68
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:69
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:71
+msgid "Field group updated."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:70
+msgid "Field group deleted."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:73
+msgid "Field group published."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:74
+msgid "Field group saved."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:75
+msgid "Field group submitted."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:76
+msgid "Field group scheduled for."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:77
+msgid "Field group draft updated."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:176
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:177
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:1736
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "checked"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:178
+msgid "No toggle fields available"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:179
+msgid "Field group title is required"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:180
+#: plugins/advanced-custom-fields-pro/api/api-field-group.php:615
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:863
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:864
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "copy"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:181
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:62
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:162
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:59
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:135
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3326
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:1942
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:2068
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "or"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:183
+msgid "Parent fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:184
+msgid "Sibling fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:185
+msgid "Move Custom Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:186
+msgid "This field cannot be moved until its changes have been saved"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:187
+msgid "Null"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:188
+#: plugins/advanced-custom-fields-pro/core/input.php:128
+msgid "The changes you made will be lost if you navigate away from this page"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:189
+msgid "The string \"field_\" may not be used at the start of a field name"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:215
+msgid "Settings"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:253
+msgid "Field Keys"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:752
+msgid "Front Page"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:753
+msgid "Posts Page"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:754
+msgid "Top Level Page (no parent)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:755
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:756
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:772
+msgid "Default Template"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:794
+msgid "Logged in"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:795
+msgid "Viewing front end"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:796
+msgid "Viewing back end"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:815
+msgid "Super Admin"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:835
+msgid "Add / Edit"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:836
+msgid "Register"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:1067
+msgid "Move Complete."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:1068
+#, php-format
+msgid "The %s field can now be found in the %s field group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:1070
+msgid "Close Window"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:1105
+msgid "Please select the destination for this field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-group.php:1112
+msgid "Move Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:74
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:142
+#, php-format
+msgid "Field group duplicated. %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:146
+#, php-format
+msgid "%s field group duplicated."
+msgid_plural "%s field groups duplicated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:228
+#, php-format
+msgid "Field group synchronised. %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:232
+#, php-format
+msgid "%s field group synchronised."
+msgid_plural "%s field groups synchronised."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:412
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:576
+msgid "Sync available"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:624
+#: plugins/advanced-custom-fields-pro/admin/settings-info.php:76
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:111
+msgid "Changelog"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:625
+msgid "See what's new in"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:625
+msgid "version"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:627
+msgid "Resources"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:629
+msgid "Getting Started"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:630
+#: plugins/advanced-custom-fields-pro/pro/admin/settings-updates.php:73
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:17
+msgid "Updates"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:631
+msgid "Field Types"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:632
+msgid "Functions"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:633
+msgid "Actions"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:634
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:717
+msgid "Filters"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:635
+msgid "'How to' guides"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:636
+msgid "Tutorials"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:641
+msgid "Created by"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:684
+msgid "Duplicate this item"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:684
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:700
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:59
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:504
+msgid "Duplicate"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:746
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:754
+msgid "Synchronise field group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:754
+#: plugins/advanced-custom-fields-pro/admin/field-groups.php:771
+msgid "Sync"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-addons.php:51
+#: plugins/advanced-custom-fields-pro/admin/views/settings-addons.php:9
+msgid "Add-ons"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-addons.php:87
+msgid "<b>Error</b>. Could not load add-ons list"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-info.php:50
+msgid "Info"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-info.php:75
+msgid "What's New"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:54
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools-export.php:28
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:31
+msgid "Tools"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:151
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:365
+msgid "No field groups selected"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:188
+msgid "No file selected"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:201
+msgid "Error uploading file. Please try again"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:210
+msgid "Incorrect file type"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:227
+msgid "Import file empty"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:323
+#, php-format
+msgid "<b>Success</b>. Import tool added %s field groups: %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/settings-tools.php:332
+#, php-format
+msgid ""
+"<b>Warning</b>. Import tool detected %s field groups already exist and have "
+"been ignored: %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/update.php:113
+msgid "Upgrade ACF"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/update.php:143
+msgid "Review sites & upgrade"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/update.php:298
+msgid "Upgrade"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/update.php:328
+msgid "Upgrade Database"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:29
+msgid "Conditional Logic"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:40
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:141
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:246
+#: plugins/advanced-custom-fields-pro/fields/message.php:144
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:553
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:567
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:419
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:433
+#: plugins/advanced-custom-fields-pro/fields/select.php:396
+#: plugins/advanced-custom-fields-pro/fields/select.php:410
+#: plugins/advanced-custom-fields-pro/fields/select.php:424
+#: plugins/advanced-custom-fields-pro/fields/select.php:438
+#: plugins/advanced-custom-fields-pro/fields/tab.php:161
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:796
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:810
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:824
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:838
+#: plugins/advanced-custom-fields-pro/fields/user.php:457
+#: plugins/advanced-custom-fields-pro/fields/user.php:471
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:401
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:93
+msgid "Yes"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:62
+msgid "Show this field if"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:111
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:34
+msgid "is equal to"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:112
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:35
+msgid "is not equal to"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:149
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:122
+msgid "and"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php:164
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:137
+msgid "Add rule group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:54
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:58
+msgid "Edit field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:59
+msgid "Duplicate field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:60
+msgid "Move field to another group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:60
+msgid "Move"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:61
+msgid "Delete field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:61
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:503
+msgid "Delete"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:69
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:212
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:912
+msgid "Error"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:69
+msgid "Field type does not exist"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:82
+msgid "Field Label"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:83
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:95
+msgid "Field Name"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:96
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:108
+msgid "Field Type"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:122
+#: plugins/advanced-custom-fields-pro/fields/tab.php:134
+msgid "Instructions"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:123
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:134
+msgid "Required?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:163
+msgid "Wrapper Attributes"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:169
+msgid "width"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:183
+msgid "class"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:196
+msgid "id"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-field.php:208
+msgid "Close Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:29
+msgid "Order"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:30
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:530
+msgid "Label"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:44
+msgid ""
+"No fields. Click the <strong>+ Add Field</strong> button to create your "
+"first field."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:51
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php:54
+msgid "+ Add Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:5
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:11
+msgid "Post"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:6
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:723
+msgid "Post Type"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:7
+msgid "Post Status"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:8
+msgid "Post Format"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:9
+msgid "Post Category"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:10
+msgid "Post Taxonomy"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:13
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:17
+msgid "Page"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:14
+msgid "Page Template"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:15
+msgid "Page Type"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:16
+msgid "Page Parent"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:19
+#: plugins/advanced-custom-fields-pro/fields/user.php:36
+msgid "User"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:20
+msgid "Current User"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:21
+msgid "Current User Role"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:22
+msgid "User Form"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:23
+msgid "User Role"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:25
+#: plugins/advanced-custom-fields-pro/pro/admin/options-page.php:48
+msgid "Forms"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:26
+msgid "Attachment"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:27
+msgid "Taxonomy Term"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:28
+msgid "Comment"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:29
+msgid "Widget"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:41
+msgid "Rules"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:42
+msgid ""
+"Create a set of rules to determine which edit screens will use these "
+"advanced custom fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php:59
+msgid "Show this field group if"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:20
+msgid "Style"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:27
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:28
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:35
+msgid "Position"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:42
+msgid "High (after title)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:43
+msgid "Normal (after content)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:44
+msgid "Side"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:52
+msgid "Label placement"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:59
+#: plugins/advanced-custom-fields-pro/fields/tab.php:148
+msgid "Top aligned"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:60
+#: plugins/advanced-custom-fields-pro/fields/tab.php:149
+msgid "Left Aligned"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:67
+msgid "Instruction placement"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:74
+msgid "Below labels"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:75
+msgid "Below fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:82
+msgid "Order No."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:83
+msgid "Field groups with a lower order will appear first"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:94
+msgid "Shown in field group list"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:104
+msgid "Hide on screen"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:105
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:105
+msgid ""
+"If multiple field groups appear on an edit screen, the first field group's "
+"options will be used (the one with the lowest order number)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:112
+msgid "Permalink"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:113
+msgid "Content Editor"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:114
+msgid "Excerpt"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:116
+msgid "Discussion"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:118
+msgid "Revisions"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:119
+msgid "Slug"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:121
+msgid "Format"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:122
+msgid "Page Attributes"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:123
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:736
+msgid "Featured Image"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:124
+msgid "Categories"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:125
+msgid "Tags"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/field-group-options.php:126
+msgid "Send Trackbacks"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-addons.php:23
+msgid "Download & Install"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-addons.php:42
+msgid "Installed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:9
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:10
+#, php-format
+msgid ""
+"Thank you for updating! ACF %s is bigger and better than ever before. We "
+"hope you like it."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:23
+msgid "A smoother custom field experience"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:28
+msgid "Improved Usability"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:29
+msgid ""
+"Including the popular Select2 library has improved both usability and speed "
+"across a number of field types including post object, page link, taxonomy "
+"and select."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:33
+msgid "Improved Design"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:34
+msgid ""
+"Many fields have undergone a visual refresh to make ACF look better than "
+"ever! Noticeable changes are seen on the gallery, relationship and oEmbed "
+"(new) fields!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:38
+msgid "Improved Data"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:39
+msgid ""
+"Redesigning the data architecture has allowed sub fields to live "
+"independently from their parents. This allows you to drag and drop fields in "
+"and out of parent fields!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:45
+msgid "Goodbye Add-ons. Hello PRO"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:50
+msgid "Introducing ACF PRO"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:51
+msgid ""
+"We're changing the way premium functionality is delivered in an exciting way!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:52
+#, php-format
+msgid ""
+"All 4 premium add-ons have been combined into a new <a href=\"%s\">Pro "
+"version of ACF</a>. With both personal and developer licenses available, "
+"premium functionality is more affordable and accessible than ever before!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:56
+msgid "Powerful Features"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:57
+msgid ""
+"ACF PRO contains powerful features such as repeatable data, flexible content "
+"layouts, a beautiful gallery field and the ability to create extra admin "
+"options pages!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:58
+#, php-format
+msgid "Read more about <a href=\"%s\">ACF PRO features</a>."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:62
+msgid "Easy Upgrading"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:63
+#, php-format
+msgid ""
+"To help make upgrading easy, <a href=\"%s\">login to your store account</a> "
+"and claim a free copy of ACF PRO!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:64
+#, php-format
+msgid ""
+"We also wrote an <a href=\"%s\">upgrade guide</a> to answer any questions, "
+"but if you do have one, please contact our support team via the <a href=\"%s"
+"\">help desk</a>"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:72
+msgid "Under the Hood"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:77
+msgid "Smarter field settings"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:78
+msgid "ACF now saves its field settings as individual post objects"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:82
+msgid "More AJAX"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:83
+msgid "More fields use AJAX powered search to speed up page loading"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:87
+msgid "Local JSON"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:88
+msgid "New auto export to JSON feature improves speed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:94
+msgid "Better version control"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:95
+msgid ""
+"New auto export to JSON feature allows field settings to be version "
+"controlled"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:99
+msgid "Swapped XML for JSON"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:100
+msgid "Import / Export now uses JSON in favour of XML"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:104
+msgid "New Forms"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:105
+msgid "Fields can now be mapped to comments, widgets and all user forms!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:112
+msgid "A new field for embedding content has been added"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:116
+msgid "New Gallery"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:117
+msgid "The gallery field has undergone a much needed facelift"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:121
+msgid "New Settings"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:122
+msgid ""
+"Field group settings have been added for label placement and instruction "
+"placement"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:128
+msgid "Better Front End Forms"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:129
+msgid "acf_form() can now create a new post on submission"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:133
+msgid "Better Validation"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:134
+msgid "Form validation is now done via PHP + AJAX in favour of only JS"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:138
+msgid "Relationship Field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:139
+msgid ""
+"New Relationship field setting for 'Filters' (Search, Post Type, Taxonomy)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:145
+msgid "Moving Fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:146
+msgid ""
+"New field group functionality allows you to move a field between groups & "
+"parents"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:150
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:36
+msgid "Page Link"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:151
+msgid "New archives group in page_link field selection"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:155
+msgid "Better Options Pages"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:156
+msgid ""
+"New functions for options page allow creation of both parent and child menu "
+"pages"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-info.php:165
+#, php-format
+msgid "We think you'll love the changes in %s."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools-export.php:32
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools-export.php:36
+msgid ""
+"The following code can be used to register a local version of the selected "
+"field group(s). A local field group can provide many benefits such as faster "
+"load times, version control & dynamic fields/settings. Simply copy and paste "
+"the following code to your theme's functions.php file or include it within "
+"an external file."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:5
+msgid "Select Field Groups"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:35
+msgid "Export Field Groups"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:38
+msgid ""
+"Select the field groups you would like to export and then select your export "
+"method. Use the download button to export to a .json file which you can then "
+"import to another ACF installation. Use the generate button to export to PHP "
+"code which you can place in your theme."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:50
+msgid "Download export file"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:51
+msgid "Generate export code"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:64
+msgid "Import Field Groups"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:67
+msgid ""
+"Select the Advanced Custom Fields JSON file you would like to import. When "
+"you click the import button below, ACF will import the field groups."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:77
+#: plugins/advanced-custom-fields-pro/fields/file.php:46
+msgid "Select File"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/settings-tools.php:86
+msgid "Import"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:8
+#: plugins/advanced-custom-fields-pro/admin/views/update.php:8
+msgid "Advanced Custom Fields Database Upgrade"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:10
+msgid ""
+"The following sites require a DB upgrade. Check the ones you want to update "
+"and then click “Upgrade Database”."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:19
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:27
+msgid "Site"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:47
+#, php-format
+msgid "Site requires database upgrade from %s to %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:49
+msgid "Site is up to date"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:62
+#: plugins/advanced-custom-fields-pro/admin/views/update.php:16
+msgid "Database Upgrade complete"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:62
+msgid "Return to network dashboard"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:101
+#: plugins/advanced-custom-fields-pro/admin/views/update-notice.php:35
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:157
+msgid "Upgrade complete"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-network.php:161
+msgid "Upgrading data to"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-notice.php:23
+msgid "Database Upgrade Required"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-notice.php:25
+#, php-format
+msgid "Thank you for updating to %s v%s!"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update-notice.php:25
+msgid ""
+"Before you start using the new awesome features, please update your database "
+"to the newest version."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update.php:12
+msgid "Reading upgrade tasks..."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update.php:14
+#, php-format
+msgid "Upgrading data to version %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update.php:16
+msgid "See what's new"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/admin/views/update.php:110
+msgid "No updates available"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:877
+msgid "Medium"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:926
+msgid "Full Size"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:1636
+msgid "(no title)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3247
+#, php-format
+msgid "Image width must be at least %dpx."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3252
+#, php-format
+msgid "Image width must not exceed %dpx."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3268
+#, php-format
+msgid "Image height must be at least %dpx."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3273
+#, php-format
+msgid "Image height must not exceed %dpx."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3291
+#, php-format
+msgid "File size must be at least %s."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3296
+#, php-format
+msgid "File size must must not exceed %s."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-helpers.php:3330
+#, php-format
+msgid "File type must be %s."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/api/api-template.php:1263
+msgid "Post updated"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/field.php:131
+msgid "Basic"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/field.php:132
+msgid "Content"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/field.php:133
+msgid "Choice"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/field.php:134
+msgid "Relational"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/field.php:135
+msgid "jQuery"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/field.php:136
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:226
+#: plugins/advanced-custom-fields-pro/fields/radio.php:231
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:500
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:549
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:467
+msgid "Layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:129
+msgid "Expand Details"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:130
+msgid "Collapse Details"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:131
+msgid "Validation successful"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:132
+msgid "Validation failed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:133
+msgid "1 field requires attention"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:134
+#, php-format
+msgid "%d fields require attention"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:135
+msgid "Restricted"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/core/input.php:533
+#, php-format
+msgid "%s value is required"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:36
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:778
+msgid "Checkbox"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:144
+msgid "Toggle All"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:208
+#: plugins/advanced-custom-fields-pro/fields/radio.php:193
+#: plugins/advanced-custom-fields-pro/fields/select.php:373
+msgid "Choices"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:209
+#: plugins/advanced-custom-fields-pro/fields/radio.php:194
+#: plugins/advanced-custom-fields-pro/fields/select.php:374
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:209
+#: plugins/advanced-custom-fields-pro/fields/radio.php:194
+#: plugins/advanced-custom-fields-pro/fields/select.php:374
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:209
+#: plugins/advanced-custom-fields-pro/fields/radio.php:194
+#: plugins/advanced-custom-fields-pro/fields/select.php:374
+msgid "red : Red"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:217
+#: plugins/advanced-custom-fields-pro/fields/color_picker.php:158
+#: plugins/advanced-custom-fields-pro/fields/email.php:124
+#: plugins/advanced-custom-fields-pro/fields/number.php:150
+#: plugins/advanced-custom-fields-pro/fields/radio.php:222
+#: plugins/advanced-custom-fields-pro/fields/select.php:382
+#: plugins/advanced-custom-fields-pro/fields/text.php:148
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:145
+#: plugins/advanced-custom-fields-pro/fields/true_false.php:115
+#: plugins/advanced-custom-fields-pro/fields/url.php:117
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:362
+msgid "Default Value"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:218
+#: plugins/advanced-custom-fields-pro/fields/select.php:383
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:232
+#: plugins/advanced-custom-fields-pro/fields/radio.php:237
+msgid "Vertical"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:233
+#: plugins/advanced-custom-fields-pro/fields/radio.php:238
+msgid "Horizontal"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:240
+msgid "Toggle"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/checkbox.php:241
+msgid "Prepend an extra checkbox to toggle all choices"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/color_picker.php:36
+msgid "Color Picker"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/color_picker.php:94
+msgid "Clear"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/color_picker.php:95
+msgid "Default"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/color_picker.php:96
+msgid "Select Color"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:36
+msgid "Date Picker"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:72
+msgid "Done"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:73
+msgid "Today"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:76
+msgid "Show a different month"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:149
+msgid "Display format"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:150
+msgid "The format displayed when editing a post"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:164
+msgid "Return format"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:165
+msgid "The format returned via template functions"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/date_picker.php:180
+msgid "Week Starts On"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/email.php:125
+#: plugins/advanced-custom-fields-pro/fields/number.php:151
+#: plugins/advanced-custom-fields-pro/fields/radio.php:223
+#: plugins/advanced-custom-fields-pro/fields/text.php:149
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:146
+#: plugins/advanced-custom-fields-pro/fields/url.php:118
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:363
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/email.php:133
+#: plugins/advanced-custom-fields-pro/fields/number.php:159
+#: plugins/advanced-custom-fields-pro/fields/password.php:137
+#: plugins/advanced-custom-fields-pro/fields/text.php:157
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:154
+#: plugins/advanced-custom-fields-pro/fields/url.php:126
+msgid "Placeholder Text"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/email.php:134
+#: plugins/advanced-custom-fields-pro/fields/number.php:160
+#: plugins/advanced-custom-fields-pro/fields/password.php:138
+#: plugins/advanced-custom-fields-pro/fields/text.php:158
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:155
+#: plugins/advanced-custom-fields-pro/fields/url.php:127
+msgid "Appears within the input"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/email.php:142
+#: plugins/advanced-custom-fields-pro/fields/number.php:168
+#: plugins/advanced-custom-fields-pro/fields/password.php:146
+#: plugins/advanced-custom-fields-pro/fields/text.php:166
+msgid "Prepend"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/email.php:143
+#: plugins/advanced-custom-fields-pro/fields/number.php:169
+#: plugins/advanced-custom-fields-pro/fields/password.php:147
+#: plugins/advanced-custom-fields-pro/fields/text.php:167
+msgid "Appears before the input"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/email.php:151
+#: plugins/advanced-custom-fields-pro/fields/number.php:177
+#: plugins/advanced-custom-fields-pro/fields/password.php:155
+#: plugins/advanced-custom-fields-pro/fields/text.php:175
+msgid "Append"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/email.php:152
+#: plugins/advanced-custom-fields-pro/fields/number.php:178
+#: plugins/advanced-custom-fields-pro/fields/password.php:156
+#: plugins/advanced-custom-fields-pro/fields/text.php:176
+msgid "Appears after the input"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:36
+msgid "File"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:47
+msgid "Edit File"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:48
+msgid "Update File"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:49
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:55
+msgid "uploaded to this post"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:142
+msgid "File Name"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:146
+msgid "File Size"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:169
+msgid "No File selected"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:169
+msgid "Add File"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:214
+#: plugins/advanced-custom-fields-pro/fields/image.php:195
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:847
+msgid "Return Value"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:215
+#: plugins/advanced-custom-fields-pro/fields/image.php:196
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:220
+msgid "File Array"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:221
+msgid "File URL"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:222
+msgid "File ID"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:229
+#: plugins/advanced-custom-fields-pro/fields/image.php:220
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:655
+msgid "Library"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:230
+#: plugins/advanced-custom-fields-pro/fields/image.php:221
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:656
+msgid "Limit the media library choice"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:236
+#: plugins/advanced-custom-fields-pro/fields/image.php:227
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:662
+msgid "Uploaded to post"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:243
+#: plugins/advanced-custom-fields-pro/fields/image.php:234
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:669
+msgid "Minimum"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:244
+#: plugins/advanced-custom-fields-pro/fields/file.php:255
+msgid "Restrict which files can be uploaded"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:247
+#: plugins/advanced-custom-fields-pro/fields/file.php:258
+#: plugins/advanced-custom-fields-pro/fields/image.php:257
+#: plugins/advanced-custom-fields-pro/fields/image.php:290
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:692
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:725
+msgid "File size"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:254
+#: plugins/advanced-custom-fields-pro/fields/image.php:267
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:702
+msgid "Maximum"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:265
+#: plugins/advanced-custom-fields-pro/fields/image.php:300
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:735
+msgid "Allowed file types"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/file.php:266
+#: plugins/advanced-custom-fields-pro/fields/image.php:301
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:736
+msgid "Comma separated list. Leave blank for all types"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:36
+msgid "Google Map"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:51
+msgid "Locating"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:52
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:134
+msgid "Clear location"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:135
+msgid "Find current location"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:138
+msgid "Search for address..."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:168
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:179
+msgid "Center"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:169
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:180
+msgid "Center the initial map"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:194
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:203
+#: plugins/advanced-custom-fields-pro/fields/image.php:246
+#: plugins/advanced-custom-fields-pro/fields/image.php:279
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:262
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:681
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:714
+msgid "Height"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/google-map.php:204
+msgid "Customise the map height"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:51
+msgid "Select Image"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:52
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:53
+msgid "Edit Image"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:53
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:54
+msgid "Update Image"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:54
+msgid "Uploaded to this post"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:55
+msgid "All images"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:147
+msgid "No image selected"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:147
+msgid "Add Image"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:201
+msgid "Image Array"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:202
+msgid "Image URL"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:203
+msgid "Image ID"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:210
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:645
+msgid "Preview Size"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:211
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:646
+msgid "Shown when entering data"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:235
+#: plugins/advanced-custom-fields-pro/fields/image.php:268
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:670
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:703
+msgid "Restrict which images can be uploaded"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/image.php:238
+#: plugins/advanced-custom-fields-pro/fields/image.php:271
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:251
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:673
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:706
+msgid "Width"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/message.php:125
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:182
+msgid "New Lines"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/message.php:126
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:183
+msgid "Controls how new lines are rendered"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/message.php:130
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:187
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/message.php:131
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:188
+msgid "Automatically add &lt;br&gt;"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/message.php:132
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:189
+msgid "No Formatting"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/message.php:139
+msgid "Escape HTML"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/message.php:140
+msgid "Allow HTML markup to display as visible text instead of rendering"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/number.php:186
+msgid "Minimum Value"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/number.php:195
+msgid "Maximum Value"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/number.php:204
+msgid "Step Size"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/number.php:242
+msgid "Value must be a number"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/number.php:260
+#, php-format
+msgid "Value must be equal to or higher than %d"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/number.php:268
+#, php-format
+msgid "Value must be equal to or lower than %d"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:36
+msgid "oEmbed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:199
+msgid "Enter URL"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:212
+msgid "No embed found for the given URL"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:248
+#: plugins/advanced-custom-fields-pro/fields/oembed.php:259
+msgid "Embed Size"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:197
+msgid "Archives"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:520
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:386
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:689
+msgid "Filter by Post Type"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:528
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:394
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:697
+msgid "All post types"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:534
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:400
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:703
+msgid "Filter by Taxonomy"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:542
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:408
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:711
+msgid "All taxonomies"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:548
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:414
+#: plugins/advanced-custom-fields-pro/fields/select.php:391
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:791
+#: plugins/advanced-custom-fields-pro/fields/user.php:452
+msgid "Allow Null?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/page_link.php:562
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:428
+#: plugins/advanced-custom-fields-pro/fields/select.php:405
+#: plugins/advanced-custom-fields-pro/fields/user.php:466
+msgid "Select multiple values?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/password.php:36
+msgid "Password"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:36
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:447
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:768
+msgid "Post Object"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:442
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:763
+msgid "Return Format"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/post_object.php:448
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:769
+msgid "Post ID"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/radio.php:36
+msgid "Radio Button"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/radio.php:202
+msgid "Other"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/radio.php:206
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/radio.php:212
+msgid "Save Other"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/radio.php:216
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:36
+msgid "Relationship"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:48
+msgid "Minimum values reached ( {min} values )"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:49
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:50
+msgid "Loading"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:51
+msgid "No matches found"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:570
+msgid "Search..."
+msgstr "Cerca..."
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:579
+msgid "Select post type"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:592
+msgid "Select taxonomy"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:724
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:36
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:761
+msgid "Taxonomy"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:731
+msgid "Elements"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:732
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:743
+msgid "Minimum posts"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:752
+msgid "Maximum posts"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/relationship.php:856
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:817
+#, php-format
+msgid "%s requires at least %s selection"
+msgid_plural "%s requires at least %s selections"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/advanced-custom-fields-pro/fields/select.php:36
+#: plugins/advanced-custom-fields-pro/fields/select.php:174
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:783
+msgid "Select"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/select.php:419
+msgid "Stylised UI"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/select.php:433
+msgid "Use AJAX to lazy load choices?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/tab.php:36
+msgid "Tab"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/tab.php:128
+msgid ""
+"The tab field will display incorrectly when added to a Table style repeater "
+"field or flexible content field layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/tab.php:129
+msgid ""
+"Use \"Tab Fields\" to better organize your edit screen by grouping fields "
+"together."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/tab.php:130
+msgid ""
+"All fields following this \"tab field\" (or until another \"tab field\" is "
+"defined) will be grouped together using this field's label as the tab "
+"heading."
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/tab.php:144
+msgid "Placement"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/tab.php:156
+msgid "End-point"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/tab.php:157
+msgid "Use this field as an end-point and start a new group of tabs"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:591
+#, php-format
+msgid "Add new %s "
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:762
+msgid "Select the taxonomy to be displayed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:771
+msgid "Appearance"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:772
+msgid "Select the appearance of this field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:777
+msgid "Multiple Values"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:779
+msgid "Multi Select"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:781
+msgid "Single Value"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:782
+msgid "Radio Buttons"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:805
+msgid "Create Terms"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:806
+msgid "Allow new terms to be created whilst editing"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:819
+msgid "Save Terms"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:820
+msgid "Connect selected terms to the post"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:833
+msgid "Load Terms"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:834
+msgid "Load value from posts terms"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:852
+msgid "Term Object"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:853
+msgid "Term ID"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:912
+#, php-format
+msgid "User unable to add new %s"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:925
+#, php-format
+msgid "%s already exists"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:966
+#, php-format
+msgid "%s added"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/taxonomy.php:1011
+msgid "Add"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/text.php:184
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:163
+msgid "Character Limit"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/text.php:185
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:164
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:36
+msgid "Text Area"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:172
+msgid "Rows"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/textarea.php:173
+msgid "Sets the textarea height"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/true_false.php:36
+msgid "True / False"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/true_false.php:107
+msgid "eg. Show extra content"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/url.php:36
+msgid "Url"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/url.php:168
+msgid "Value must be a valid URL"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/user.php:437
+msgid "Filter by role"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/user.php:445
+msgid "All user roles"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:37
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:314
+msgid "Visual"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:315
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:371
+msgid "Tabs"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:376
+msgid "Visual & Text"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:377
+msgid "Visual Only"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:378
+msgid "Text Only"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:385
+msgid "Toolbar"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/fields/wysiwyg.php:395
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/forms/post.php:298
+#: plugins/advanced-custom-fields-pro/pro/admin/options-page.php:374
+msgid "Edit field group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/acf-pro.php:24
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/acf-pro.php:192
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/options-page.php:48
+msgid "Options Page"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/options-page.php:83
+msgid "No options pages exist"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/options-page.php:298
+msgid "Options Updated"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/options-page.php:304
+msgid "No Custom Field Groups found for this options page"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/options-page.php:304
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/settings-updates.php:137
+msgid "<b>Error</b>. Could not connect to update server"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/settings-updates.php:267
+#: plugins/advanced-custom-fields-pro/pro/admin/settings-updates.php:338
+msgid "<b>Connection Error</b>. Sorry, please try again"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/options-page.php:48
+msgid "Publish"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/options-page.php:54
+msgid "Save Options"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:11
+msgid "Deactivate License"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:11
+msgid "Activate License"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:21
+msgid "License"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:24
+msgid ""
+"To unlock updates, please enter your license key below. If you don't have a "
+"licence key, please see"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:24
+msgid "details & pricing"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:33
+msgid "License Key"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:65
+msgid "Update Information"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:72
+msgid "Current Version"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:80
+msgid "Latest Version"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:88
+msgid "Update Available"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:96
+msgid "Update Plugin"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:98
+msgid "Please enter your license key above to unlock updates"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:104
+msgid "Check Again"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php:121
+msgid "Upgrade Notice"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/api/api-options-page.php:22
+#: plugins/advanced-custom-fields-pro/pro/api/api-options-page.php:23
+msgid "Options"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/core/updates.php:186
+#, php-format
+msgid ""
+"To enable updates, please enter your license key on the <a href=\"%s"
+"\">Updates</a> page. If you don't have a licence key, please see <a href=\"%s"
+"\">details & pricing</a>"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:36
+msgid "Flexible Content"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:42
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:43
+msgid "Add Row"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:45
+msgid "layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:46
+msgid "layouts"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:47
+msgid "remove {layout}?"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:48
+msgid "This field requires at least {min} {identifier}"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:49
+msgid "This field has a limit of {max} {identifier}"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:50
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:51
+msgid "Maximum {label} limit reached ({max} {identifier})"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:52
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:53
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:211
+#, php-format
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:356
+msgid "Add layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:359
+msgid "Remove layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:362
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:312
+msgid "Click to toggle"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:502
+msgid "Reorder Layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:502
+msgid "Reorder"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:503
+msgid "Delete Layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:504
+msgid "Duplicate Layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:505
+msgid "Add New Layout"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:559
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:474
+msgid "Table"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:560
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:475
+msgid "Block"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:561
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:476
+msgid "Row"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:576
+msgid "Min"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:589
+msgid "Max"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:617
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:483
+msgid "Button Label"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:626
+msgid "Minimum Layouts"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php:635
+msgid "Maximum Layouts"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:36
+msgid "Gallery"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:52
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:56
+msgid "Maximum selection reached"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:343
+msgid "Length"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:363
+msgid "Remove"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:543
+msgid "Add to gallery"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:547
+msgid "Bulk actions"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:548
+msgid "Sort by date uploaded"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:549
+msgid "Sort by date modified"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:550
+msgid "Sort by title"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:551
+msgid "Reverse current order"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:569
+msgid "Close"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:627
+msgid "Minimum Selection"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/gallery.php:636
+msgid "Maximum Selection"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:36
+msgid "Repeater"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:47
+msgid "Minimum rows reached ({min} rows)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:48
+msgid "Maximum rows reached ({max} rows)"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:310
+msgid "Drag to reorder"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:357
+msgid "Add row"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:358
+msgid "Remove row"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:406
+msgid "Sub Fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:436
+msgid "Collapsed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:437
+msgid "Select a sub field to show when row is collapsed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:447
+msgid "Minimum Rows"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/fields/repeater.php:457
+msgid "Maximum Rows"
+msgstr ""
+
+#: search.php:79
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:109
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: taxonomy-property_category.php:122 theme-templates/advanced-search.php:117
+#: theme-templates/areas-var2.php:141 theme-templates/gallery.php:175
+msgid "Not Found"
+msgstr ""
+
+#: taxonomy-property_category.php:123 theme-templates/advanced-search.php:118
+#: theme-templates/areas-var2.php:142 theme-templates/gallery.php:176
+msgid "Sorry, No property posts created yet."
+msgstr ""
+
+#: theme-templates/areas.php:120
+msgid "View all"
+msgstr "Guarda tutti"
+
+#: theme-templates/contact.php:99
+msgid "View on map"
+msgstr "Guarda mappa"
+
+#: theme-templates/homepage-var1.php:139 theme-templates/homepage-var2.php:149
+#: theme-templates/homepage-var3.php:92 theme-templates/homepage-var4.php:89
+#: theme-templates/homepage-var5.php:190
+msgid "More details"
+msgstr "Più dettagli"
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:441
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "title_is_required"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:511
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "move_to_trash"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:952
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "move_field_warning"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:960
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "move_field"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:1406
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "field_name_start"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:1635
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "sibling_fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:1635
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "parent_fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:1681
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "no_fields"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js:1773
+#: plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js:1
+msgid "null"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:2530
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:1
+msgid "unload"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:4033
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:4168
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:4169
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:1
+msgid "file"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:4816
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:1
+msgid "google_map"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5015
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5149
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5150
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5415
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5491
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:1
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:1647
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:1648
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "image"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5807
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "restricted"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5921
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "expand_details"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:5922
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "collapse_details"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:6503
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:6550
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:6715
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "relationship"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:8544
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "validation_successful"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:8618
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "validation_failed"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:8688
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "validation_failed_1"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.js:8692
+#: plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js:2
+msgid "validation_failed_2"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-field-group.js:601
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-field-group.min.js:1
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:631
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:636
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:659
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:665
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:689
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:694
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:695
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:715
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:721
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:722
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:906
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:914
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:935
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:943
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "flexible_content"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:291
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:347
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "repeater"
+msgstr ""
+
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:1578
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:1752
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js:1771
+#: plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "gallery"
+msgstr ""
+
+#~ msgid "Select the number of children"
+#~ msgstr "Seleziona il numero dei bambini"
